@@ -1,6 +1,6 @@
 #####  Store your name, email, student_id and class_number as STRINGS datatype #####
 exercise = "individual assignment 2"
-name =
+name = "evangeline"
 np_email =
 student_id =
 class_number =
